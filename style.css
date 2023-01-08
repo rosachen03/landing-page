@@ -79,7 +79,7 @@ h1 {
     background-color: grey;
 }
 
-/* SECTION TWO
+/*SECTION TWO */
 
 h2 {
     font-size: 36px;
@@ -87,10 +87,12 @@ h2 {
     color: #1F2937;
 }
 
-*/
-
-.item {
+.small-img {
     width: 150px;
     height: 150px;
     border-style: solid;
+}
+
+.section-two {
+    display: flex;
 }
