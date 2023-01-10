@@ -85,14 +85,27 @@ h2 {
     font-size: 36px;
     font-weight: bolder;
     color: #1F2937;
+    text-align: center;
+    padding: 15px 0;
 }
 
 .small-img {
     width: 150px;
     height: 150px;
     border-style: solid;
+    border-color: #3882F6;
+    border-radius: 14px;
+    border-width: 3px;
 }
 
 .section-two {
     display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding-bottom: 50px;
+}
+
+.item {
+    flex: 0 1 250px;
+    text-align: center;
 }
