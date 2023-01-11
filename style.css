@@ -133,6 +133,7 @@ h2 {
 /* SECTION FOUR */
 .section-four {
     color: #E5E7EB;
+    padding: 50px 0;
 }
 .call-to-act {
     font-size: 18px;
@@ -156,4 +157,16 @@ h2 {
     border-radius: 5px;
     padding: 5px 25px;
 
+}
+/* FOOTER */
+
+.footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    text-align: center;
+    padding: 25px 0;
+}
+
+.copyright {
+    margin: 0;
 }
