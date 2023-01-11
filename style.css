@@ -128,5 +128,32 @@ h2 {
     font-size: 30px;
     text-align: right;
     padding: 0 40px;
+}
+
+/* SECTION FOUR */
+.section-four {
+    color: #E5E7EB;
+}
+.call-to-act {
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3882F6;
+    margin: 50px 150px;
+    border-radius: 10px;
+    gap: 100px;
+    flex-wrap: wrap;
+}
+.small-heading {
+    font-weight: bold;
+}
+
+.sign-up-outline {
+    background-color: #3882F6;
+    border-color: #E5E7EB;
+    color: #E5E7EB;
+    border-radius: 5px;
+    padding: 5px 25px;
 
 }
