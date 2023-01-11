@@ -46,14 +46,20 @@ a {
 .section-one {
     display: flex;
     align-items: center;
+    justify-content: center;
     gap: 25px;
     padding: 75px 0;
+    flex-wrap: wrap;
+}
+
+.left-side {
+    flex: 1;
 }
 
 .content {
     color: #E5E7EB;
     font-size: 18px;
-    margin: 0 0 10px;
+  
 }
 
 h1 {
@@ -74,8 +80,7 @@ h1 {
 }
 
 .placeholder-one {
-    height: 200px;
-    width: 400px;
+    flex: 1;
     background-color: grey;
 }
 
