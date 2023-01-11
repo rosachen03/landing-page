@@ -109,3 +109,24 @@ h2 {
     flex: 0 1 250px;
     text-align: center;
 }
+
+/* SECTION THREE */
+.section-three {
+    background-color: #E5E7EB;
+    padding: 75px;
+}
+
+.quote{
+    font-size: 30px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.author {
+    font-weight: 500;
+    font-size: 30px;
+    text-align: right;
+    padding: 0 40px;
+
+}
