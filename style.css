@@ -59,7 +59,6 @@ a {
 .content {
     color: #E5E7EB;
     font-size: 18px;
-  
 }
 
 h1 {
@@ -80,8 +79,8 @@ h1 {
 }
 
 .placeholder-one {
-    flex: 1;
     background-color: grey;
+    max-width: 250px;
 }
 
 /*SECTION TWO */
